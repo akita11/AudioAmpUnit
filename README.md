@@ -30,7 +30,7 @@ Heroic社のオーディオアンプHT8693を使った10Wクラスのオーデ�
 <img src="https://github.com/akita11/AudioAmpUnit/blob/main/AudioAmpU_back.jpg" width="240px">
 
 - 動作モード: JP1を、中央-「D」をショート（デフォルトで基板パターンでショート）＝D級動作、中央-「AB」をショート＝AB級動作（D側の基板パターンをカットしてから使ってください）
-- Groveコネクタのピン割当：JP４=Grove1番ピン(Gr1)。中央-「EN」（デフォルト）=Enable、中央-「AIN」=AudioIn（EN側の基板パターンをカットしてから使ってください）
+- Groveコネクタのピン割当：JP3=Grove1番ピン(Gr1)。中央-「EN」（デフォルト）=Enable、中央-「AIN」=AudioIn（EN側の基板パターンをカットしてから使ってください）
 - Groveコネクタのピン割当：JP4=Grove2番ピン(Gr2)。中央-「AIN」（デフォルト）=AudioIn、中央-「EN」=Enable（AudioIn側の基板パターンをカットしてから使ってください）
 
 
